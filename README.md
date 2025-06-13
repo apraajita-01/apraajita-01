@@ -21,7 +21,7 @@ Hey there 👋 I'm Aprajita
 
 ###  Let's Connect :
 - LinkedIn: [https://www.linkedin.com/in/aprajitaa01/]
-- GitHub: [https://github.com/apraajita-01/apraajita-01/]
+
 
 ---
 
